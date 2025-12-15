@@ -29,6 +29,13 @@ Docs/
 Vids/
 Music/
 Others/
+
+
+## 🎥 Demo Video
+
+▶️ Watch the CLI File Organizer in action:  
+https://www.linkedin.com/posts/akshaya-sen_python-pythonautomation-documentautomation-activity-7406307855647084546-4wS2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEl_3dsBR3YBfRX9xTEzJc_sejmCrBz9Ocs
+
  
 ## How to Run the Project    
      
